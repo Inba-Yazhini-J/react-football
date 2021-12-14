@@ -1,4 +1,5 @@
 import { useState } from 'react';
+import "antd/dist/antd.css";
 import { Row, Col, Input, Select, Button, Layout, Menu, Form, notification } from 'antd';
 import { Content } from 'antd/lib/layout/layout';
 import { find, map } from 'lodash';
